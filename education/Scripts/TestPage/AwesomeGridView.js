@@ -14,7 +14,7 @@
         this.columns = [];
         this.$container = $(container);
         this.options = $.extend(true, gridDefaultOptions, options);
-        this._defaults = defaults;
+        this._defaults = gridDefaultOptions;
         this._name = pluginName;
         this.init();
     }
@@ -54,10 +54,18 @@
             this.data = data;
         },
 
-        onDataQueryError: function () {
-    
+        onDataQueryError: function (errorText) {
+            console.log(errorText);
+        },
+
+        
+        sort: function (options) {
+            //options:
+            //columnName - string
+            //ascending - true
         }
     };
+
     $.fn[pluginName] = function (methodOrOptions, options) {
         return this.each(function () {
             var awesomeGridView = $.data(this, pluginName + this.selector);
@@ -88,7 +96,16 @@
 
     //subclasses
     function Column() {
+        this.properties = {
+            name: 'noname',
+            title: 'notitle'
+        };
 
+        this.init = function (properties) {
+            this.properties = $.extend({}, this.properties, properties);
+        };
     }
+
+
 
 })(jQuery, window, document);

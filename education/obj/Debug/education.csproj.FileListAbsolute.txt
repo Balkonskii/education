@@ -32,3 +32,37 @@ c:\users\антон\documents\visual studio 2012\Projects\education\education\bi
 c:\users\антон\documents\visual studio 2012\Projects\education\education\obj\Debug\education.csprojResolveAssemblyReference.cache
 c:\users\антон\documents\visual studio 2012\Projects\education\education\obj\Debug\education.dll
 c:\users\антон\documents\visual studio 2012\Projects\education\education\obj\Debug\education.pdb
+E:\dev\education\education\bin\education.dll
+E:\dev\education\education\bin\education.pdb
+E:\dev\education\education\bin\Antlr3.Runtime.dll
+E:\dev\education\education\bin\EntityFramework.dll
+E:\dev\education\education\bin\Microsoft.Web.Infrastructure.dll
+E:\dev\education\education\bin\Newtonsoft.Json.dll
+E:\dev\education\education\bin\System.Net.Http.dll
+E:\dev\education\education\bin\System.Net.Http.Formatting.dll
+E:\dev\education\education\bin\System.Net.Http.WebRequest.dll
+E:\dev\education\education\bin\System.Web.Http.dll
+E:\dev\education\education\bin\System.Web.Http.WebHost.dll
+E:\dev\education\education\bin\System.Web.Mvc.dll
+E:\dev\education\education\bin\System.Web.Optimization.dll
+E:\dev\education\education\bin\System.Web.Providers.dll
+E:\dev\education\education\bin\System.Web.Razor.dll
+E:\dev\education\education\bin\System.Web.WebPages.Deployment.dll
+E:\dev\education\education\bin\System.Web.WebPages.dll
+E:\dev\education\education\bin\System.Web.WebPages.Razor.dll
+E:\dev\education\education\bin\WebGrease.dll
+E:\dev\education\education\bin\EntityFramework.xml
+E:\dev\education\education\bin\Newtonsoft.Json.xml
+E:\dev\education\education\bin\System.Net.Http.xml
+E:\dev\education\education\bin\System.Net.Http.Formatting.xml
+E:\dev\education\education\bin\System.Net.Http.WebRequest.xml
+E:\dev\education\education\bin\System.Web.Http.xml
+E:\dev\education\education\bin\System.Web.Http.WebHost.xml
+E:\dev\education\education\bin\System.Web.Mvc.xml
+E:\dev\education\education\bin\System.Web.Razor.xml
+E:\dev\education\education\bin\System.Web.WebPages.xml
+E:\dev\education\education\bin\System.Web.WebPages.Deployment.xml
+E:\dev\education\education\bin\System.Web.WebPages.Razor.xml
+E:\dev\education\education\obj\Debug\education.csprojResolveAssemblyReference.cache
+E:\dev\education\education\obj\Debug\education.dll
+E:\dev\education\education\obj\Debug\education.pdb
